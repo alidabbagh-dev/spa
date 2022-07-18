@@ -1,0 +1,14 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(248, 233, 233);
+    color: white;
+    text-align: center;
+    padding: 20px;
+ }
+ .col-3 a:hover{
+    color: aliceblue;
+    transition: all 0.2s;
+ }
